@@ -1,0 +1,9 @@
+E:\Reza\Project\Paycalculator.Entity\bin\Release\netcoreapp2.2\Paycalculator.Entity.deps.json
+E:\Reza\Project\Paycalculator.Entity\bin\Release\netcoreapp2.2\Paycalculator.Entity.dll
+E:\Reza\Project\Paycalculator.Entity\bin\Release\netcoreapp2.2\Paycalculator.Entity.pdb
+E:\Reza\Project\Paycalculator.Entity\obj\Release\netcoreapp2.2\Paycalculator.Entity.csprojAssemblyReference.cache
+E:\Reza\Project\Paycalculator.Entity\obj\Release\netcoreapp2.2\Paycalculator.Entity.csproj.CoreCompileInputs.cache
+E:\Reza\Project\Paycalculator.Entity\obj\Release\netcoreapp2.2\Paycalculator.Entity.AssemblyInfoInputs.cache
+E:\Reza\Project\Paycalculator.Entity\obj\Release\netcoreapp2.2\Paycalculator.Entity.AssemblyInfo.cs
+E:\Reza\Project\Paycalculator.Entity\obj\Release\netcoreapp2.2\Paycalculator.Entity.dll
+E:\Reza\Project\Paycalculator.Entity\obj\Release\netcoreapp2.2\Paycalculator.Entity.pdb

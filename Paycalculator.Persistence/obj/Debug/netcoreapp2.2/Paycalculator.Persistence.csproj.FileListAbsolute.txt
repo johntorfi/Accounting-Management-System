@@ -1,0 +1,14 @@
+E:\Reza\Project\Paycalculator.Persistence\bin\Debug\netcoreapp2.2\Paycalculator.Entity.dll
+E:\Reza\Project\Paycalculator.Persistence\obj\Debug\netcoreapp2.2\Paycalculator.Persistence.csproj.CoreCompileInputs.cache
+E:\Reza\Project\Paycalculator.Persistence\obj\Debug\netcoreapp2.2\Paycalculator.Persistence.AssemblyInfoInputs.cache
+E:\Reza\Project\Paycalculator.Persistence\obj\Debug\netcoreapp2.2\Paycalculator.Persistence.AssemblyInfo.cs
+E:\Reza\Project\Paycalculator.Persistence\obj\Debug\netcoreapp2.2\Paycalculator.Persistence.csprojAssemblyReference.cache
+E:\Reza\Project\Paycalculator.Persistence\bin\Debug\netcoreapp2.2\Paycalculator.Persistence.deps.json
+E:\Reza\Project\Paycalculator.Persistence\bin\Debug\netcoreapp2.2\Paycalculator.Persistence.runtimeconfig.json
+E:\Reza\Project\Paycalculator.Persistence\bin\Debug\netcoreapp2.2\Paycalculator.Persistence.runtimeconfig.dev.json
+E:\Reza\Project\Paycalculator.Persistence\bin\Debug\netcoreapp2.2\Paycalculator.Persistence.dll
+E:\Reza\Project\Paycalculator.Persistence\bin\Debug\netcoreapp2.2\Paycalculator.Persistence.pdb
+E:\Reza\Project\Paycalculator.Persistence\bin\Debug\netcoreapp2.2\Paycalculator.Entity.pdb
+E:\Reza\Project\Paycalculator.Persistence\obj\Debug\netcoreapp2.2\Paycalculator.Persistence.csproj.CopyComplete
+E:\Reza\Project\Paycalculator.Persistence\obj\Debug\netcoreapp2.2\Paycalculator.Persistence.dll
+E:\Reza\Project\Paycalculator.Persistence\obj\Debug\netcoreapp2.2\Paycalculator.Persistence.pdb

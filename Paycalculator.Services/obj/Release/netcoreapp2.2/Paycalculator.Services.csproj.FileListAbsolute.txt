@@ -1,0 +1,16 @@
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Paycalculator.Services.deps.json
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Paycalculator.Services.dll
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Paycalculator.Services.pdb
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Paycalculator.Entity.dll
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Paycalculator.Persistence.dll
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Paycalculator.Entity.pdb
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Paycalculator.Persistence.pdb
+E:\Reza\Project\Paycalculator.Services\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\Reza\Project\Paycalculator.Services\obj\Release\netcoreapp2.2\Paycalculator.Services.csprojAssemblyReference.cache
+E:\Reza\Project\Paycalculator.Services\obj\Release\netcoreapp2.2\Paycalculator.Services.csproj.CoreCompileInputs.cache
+E:\Reza\Project\Paycalculator.Services\obj\Release\netcoreapp2.2\Paycalculator.Services.AssemblyInfoInputs.cache
+E:\Reza\Project\Paycalculator.Services\obj\Release\netcoreapp2.2\Paycalculator.Services.AssemblyInfo.cs
+E:\Reza\Project\Paycalculator.Services\obj\Release\netcoreapp2.2\Paycalculator.Services.csproj.CopyComplete
+E:\Reza\Project\Paycalculator.Services\obj\Release\netcoreapp2.2\Paycalculator.Services.dll
+E:\Reza\Project\Paycalculator.Services\obj\Release\netcoreapp2.2\Paycalculator.Services.pdb
